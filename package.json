@@ -1,0 +1,22 @@
+{
+  "name": "qr-generator",
+  "version": "1.0.0",
+  "description": "This is a mini project that generate QR code from input Text",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradiptechie/QR-Generator.git"
+  },
+  "keywords": [
+    "qr_generator"
+  ],
+  "author": "Pradip Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradiptechie/QR-Generator/issues"
+  },
+  "homepage": "https://github.com/pradiptechie/QR-Generator#readme"
+}
